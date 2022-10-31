@@ -9,9 +9,9 @@ Processo de instalação, configuração para o rancher versão estável em HA c
 
 ## Tópicos:
 
-- [HA-RKE](#instala%C3%A7%C3%A3o)
-- [HA-RKE2](#instala%C3%A7%C3%A3o-docker)
-- [SingleNode](#configura%C3%A7%C3%A3o-chave-ssh)
+- [HA-RKE](https://github.com/guilhermelinhares/rancher/blob/main/HA/RKE/README.md)
+- [HA-RKE2](https://github.com/guilhermelinhares/rancher/blob/main/HA/RKE2/README.md)
+- [SingleNode](https://github.com/guilhermelinhares/rancher/blob/main/Singlenode/README.md)
 
 
 <!-- ABOUT THE TABLE -->
